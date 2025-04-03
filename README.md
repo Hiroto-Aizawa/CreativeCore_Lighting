@@ -7,3 +7,5 @@
 ## 公式サイト
 
 [Creative Core - Lighting](https://learn.unity.com/pathway/creative-core/unit/lighting?version=6)
+
+2025/4/3 Unity CreativeCore - Lighting 完了
